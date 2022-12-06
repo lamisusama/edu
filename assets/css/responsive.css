@@ -1,0 +1,56 @@
+@media (max-width: 460px) {
+  .bg-shape {
+    top: -120px;
+    left: -450px;
+    max-width: clamp(700px, 80vw, 1300px);
+    }
+    .about .stroke-text {
+        top: -19px;
+        left: -32px;
+    }
+    h2 {
+        font-size: 26px;
+    }
+    .hero-section h1:before {
+        top: 4px;
+    left: 0px;
+    }
+    .btn-style-1 {
+        font-size:10px
+    }
+    .hero-section h1:before,
+    .hero-section h1 {
+        font-size:25px
+    }
+
+    .hero-section {
+        position: relative;
+        min-height: 55vh;
+        padding: 0;
+    }
+    body {
+        font-size:11px
+    }
+    .box-icon {
+ 
+        padding: 20px 14px; 
+    }
+
+    .box-icon p {
+        font-size:10px
+    }
+
+    .box-icon h5  { 
+font-size:16px
+    }
+    .box-icon img  { 
+width:37px
+    }
+
+
+}
+@media (min-width: 1400px) { 
+     .bg-shape {
+        top:-100px
+    }
+}
