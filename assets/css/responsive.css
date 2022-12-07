@@ -39,7 +39,7 @@
   }
 
   .box-icon {
-    height: 200px;
+    height: 220px;
     padding: 20px 14px;
     margin-bottom: 0;
   }
@@ -71,7 +71,7 @@
 }
 @media (max-width: 1000px) {
   p {
-    line-height: 14px;
+    line-height: 16px;
     font-weight: 500;
   }
   .hero-section {
